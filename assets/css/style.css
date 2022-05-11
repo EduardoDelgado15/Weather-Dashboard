@@ -10,18 +10,18 @@
 .card-body {
     flex: auto
 }
-//severe red
+
 span.severe {
     padding: 3px;
     background-color: red;
     color: white;
 }
-// moderate yellow
+
 span.moderate {
     padding: 3px;
     background-color: yellow;
 }
-// favorable green
+
 span.favorable {
     padding: 3px;
     background-color: green;
