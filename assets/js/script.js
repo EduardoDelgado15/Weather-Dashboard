@@ -96,7 +96,6 @@ var getUvIndex = function (lat, lon) {
             });
         });
     //console.log(lat);
-    //console.log(lon);
 }
 
 var displayUvIndex = function (index) {
